@@ -1,4 +1,4 @@
-package org.example;
+package org.APCSLowell;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
