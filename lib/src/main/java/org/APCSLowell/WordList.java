@@ -1,3 +1,4 @@
+package org.APCSLowell;
 import java.util.*;
 
 public class WordList
